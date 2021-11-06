@@ -1,0 +1,13 @@
+.container{
+    font-size: 30px;
+}
+.col{
+    cursor: pointer;
+}
+.col 
+{
+    display: flex;
+}
+.border{
+    border-radius: 20px;
+}
